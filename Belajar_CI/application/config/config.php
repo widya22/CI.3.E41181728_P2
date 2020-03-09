@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 /**Base URL berfungsi untuk menentukan alamat atau URL yang akan digunakan oleh web */
-$config['base_url'] = 'http://localhost/Belajar_CI/';
+$config['base_url'] = 'http://localhost/CI.3.E41181728_P2/Belajar_CI/';
 
 /*
 |--------------------------------------------------------------------------
